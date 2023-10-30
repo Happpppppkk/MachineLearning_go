@@ -19,10 +19,13 @@ The study uses R2 to measure the modeling which does not come with good predicti
 What should really mention is the processing time differences. 
 
 The result the program without concurrency:
+
 ![WeChatf67d1057423ae046851e89b0d7abc8f7](https://github.com/Happpppppkk/MachineLearning_go/assets/84537515/5f39be29-0963-4d71-b4d6-e065fa289458)
 
 The result the program with concurrency:
+
 ![WeChata6fd266f5b39a9f8ad2157a857cc58c2](https://github.com/Happpppppkk/MachineLearning_go/assets/84537515/380f411b-95bb-406f-9650-9ce850bdf410)
+
 
 The program with concurrency is slightly faster than the one without.
 

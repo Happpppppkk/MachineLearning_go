@@ -29,3 +29,12 @@ The program with concurrency is slightly faster than the one without.
 ## Issues
 
 The study only perform the concurrency over the trainModel function but there are more functions that are able to use such as loadin large dataset or evaluate. There is one more issue that is the regression formula would change when in concurrency, which is still a myth for now.
+
+## Reference
+
+https://github.com/sajari/regression/tree/master
+
+https://gitlab.com/devthoughts/code/-/blob/master/linear-regression-with-go/first_testing.go
+
+https://medium.com/devthoughts/linear-regression-with-go-ff1701455bcd
+
